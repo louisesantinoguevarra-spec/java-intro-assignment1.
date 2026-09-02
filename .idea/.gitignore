@@ -1,0 +1,10 @@
+# Default ignored files
+/../../java-intro-assignment1./.idea/shelf/
+/../../java-intro-assignment1./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../java-intro-assignment1./.idea/httpRequests/
+# Ignored default folder with query files
+/../../java-intro-assignment1./.idea/queries/
+# Datasource local storage ignored files
+/../../java-intro-assignment1./.idea/dataSources/
+/../../java-intro-assignment1./.idea/dataSources.local.xml
